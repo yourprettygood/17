@@ -1,0 +1,7 @@
+C:\Users\DANIK\source\repos\17\bin\Debug\17.exe.config
+C:\Users\DANIK\source\repos\17\bin\Debug\17.exe
+C:\Users\DANIK\source\repos\17\bin\Debug\17.pdb
+C:\Users\DANIK\source\repos\17\obj\Debug\17.csproj.AssemblyReference.cache
+C:\Users\DANIK\source\repos\17\obj\Debug\17.csproj.CoreCompileInputs.cache
+C:\Users\DANIK\source\repos\17\obj\Debug\17.exe
+C:\Users\DANIK\source\repos\17\obj\Debug\17.pdb
